@@ -1,2 +1,2 @@
 # Data-Analysis
-I will be investigating Netflix movies and shows 
+I will be conducting Exploratory Data Analysis on different datasets
